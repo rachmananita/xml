@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T16:12:30.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.9.1" etag="oB0X75uN9DgN8WWzZLIr" type="github"><diagram id="fYsA4PGkrEv_Y2KAq_UG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-05T16:18:45.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="h1XOIU5A0ydFa5t_z3YC" version="15.9.1" type="github">
+  <diagram id="fYsA4PGkrEv_Y2KAq_UG" name="Page-1">
+    <mxGraphModel dx="354" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yh_yUtdd2IQkCUZH47gO-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="192" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="yh_yUtdd2IQkCUZH47gO-2" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="275.25" y="114.75" width="90" height="320.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yh_yUtdd2IQkCUZH47gO-3" value="&lt;span&gt;Total = Jumlah Pemakaian * 1500&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yh_yUtdd2IQkCUZH47gO-4" value="&lt;span&gt;Harga awal = 100 * 1500&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Sisa = Jumlah Pemakaian - 100&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Harga sisa = sisa * 1200&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Total = harga awal + harga sisa&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yh_yUtdd2IQkCUZH47gO-5" value="Pembayaran Listrik" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260.25" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yh_yUtdd2IQkCUZH47gO-6" value="Grand Total" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="486" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yh_yUtdd2IQkCUZH47gO-8" value="&lt;span&gt;Jumlah&lt;/span&gt;&lt;br&gt;&lt;span&gt;Pemakaian &amp;lt;=100&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265.25" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yh_yUtdd2IQkCUZH47gO-9" value="&amp;lt; 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yh_yUtdd2IQkCUZH47gO-10" value="&amp;gt; 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
